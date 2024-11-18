@@ -4,3 +4,6 @@ My data sci and analytics project
 1. SQL supermarket analysis
 2. R programing
 3. Linear Regression Model using caret
+
+## contact Me
+
